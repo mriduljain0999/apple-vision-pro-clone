@@ -1,7 +1,7 @@
 # Apple Vision Pro Clone
 
 ## Introduction
-Welcome to the Apple Vision Pro Clone, a project that emulates the design and features of the original [Apple Vision Pro](https://www.apple.com/pro-display-xdr/) website. This project is a testament to the power of web development and showcases your skills in HTML, CSS, JavaScript, Locomotive Scroll, Canvas, GSAP, and ScrollTrigger.
+Welcome to the Apple Vision Pro Clone, a project that emulates the design and features of the original [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) website. This project is a testament to the power of web development and showcases your skills in HTML, CSS, JavaScript, Locomotive Scroll, Canvas, GSAP, and ScrollTrigger.
 
 ## Features
 
